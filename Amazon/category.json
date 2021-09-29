@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "category":"Electronics & Appliances"
+    },
+    {
+        "id":2,
+        "category":"Smartphones"
+    },
+    {
+        "id":3,
+        "category":"Computer & Accessories"
+    },
+    {
+        "id":4,
+        "category":"Home Decor"
+    },
+    {                                                           
+        "id":5,                                "pending":"",
+        "category":"Home Tools"                
+    },
+    {
+        "id":6,                                "pending":"",
+        "category":"Clothing"
+    },
+    {
+        "id":7,                                "pending":"",
+        "category":"Gift"
+    }
+    
+]
