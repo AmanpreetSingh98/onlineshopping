@@ -16,16 +16,11 @@
         "category":"Home Decor"
     },
     {                                                           
-        "id":5,                                "pending":"",
+        "id":5,                                
         "category":"Home Tools"                
     },
     {
-        "id":6,                                "pending":"",
-        "category":"Clothing"
-    },
-    {
-        "id":7,                                "pending":"",
+        "id":6,                                
         "category":"Gift"
     }
-    
 ]
